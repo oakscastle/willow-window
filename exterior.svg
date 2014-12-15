@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg
+<svg:svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="924.27948"
-   height="357.58386"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="exterior.svg">
-  <defs
+   sodipodi:docname="exterior.svg"
+   height="100%"
+   viewBox="0 0 924.27948 357.58386"
+   width="100%">
+  <svg:defs
      id="defs4">
-    <linearGradient
+    <svg:linearGradient
        id="linearGradient3781">
-      <stop
+      <svg:stop
          style="stop-color:#000016;stop-opacity:0.83999997;"
          offset="0"
          id="stop3783" />
-      <stop
+      <svg:stop
          style="stop-color:#000000;stop-opacity:0;"
          offset="1"
          id="stop3785" />
-    </linearGradient>
-    <linearGradient
+    </svg:linearGradient>
+    <svg:linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3781"
        id="linearGradient3787"
@@ -38,7 +38,8 @@
        x2="1153.0841"
        y2="744.26562"
        gradientUnits="userSpaceOnUse" />
-  </defs>
+    <title>A Willow Window</title>
+  </svg:defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -50,7 +51,7 @@
      inkscape:cx="492.75837"
      inkscape:cy="174.27492"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="947"
@@ -61,7 +62,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0" />
-  <metadata
+  <svg:metadata
      id="metadata7">
     <rdf:RDF>
       <cc:Work
@@ -72,114 +73,114 @@
         <dc:title />
       </cc:Work>
     </rdf:RDF>
-  </metadata>
-  <g
+  </svg:metadata>
+  <svg:g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-228.80463,-419.50669)">
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 254.55844,684.66666 101.01526,-17.1726 -3.03046,-135.36044 -98.99495,-5.05076 z"
        id="path2996"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 252.53814,509.91027 95.96449,8.08122 1.01015,-83.84267 -96.97464,-11.11167 z"
        id="path2998"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 375.77675,440.20974 96.97464,2.02031 1.01015,76.77159 -94.95434,-1.01015 z"
        id="path3000"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 493.96459,439.19959 102.02541,2.0203 2.02031,77.78175 -107.07617,0 z"
        id="path3002"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 493.96459,531.12347 97.9848,3.03046 3.03046,129.29952 -103.03556,1.01016 z"
        id="path3004"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 375.77675,565.46866 97.98479,0 -1.01015,157.58379 -94.95434,-2.0203 z"
        id="path3006"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 619.22351,527.08286 -4.04061,134.35029 202.03051,-2.02031 3.03046,-132.32998 z"
        id="path3008"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 623.26412,437.17928 196.97975,-1.01015 1.01015,74.75129 -195.96959,-5.05076 z"
        id="path3010"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 858.62966,536.17423 77.78175,-1.01015 -10.10153,153.54319 -68.69037,5.05076 z"
        id="path3014"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 960.65507,527.08286 -4.04061,132.32998 128.28934,11.11168 6.0609,-149.50258 z"
        id="path3016"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 963.68553,435.15898 -1.01015,78.7919 126.26902,-5.05077 2.0203,-88.89342 z"
        id="path3018"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 861.66012,444.25035 3.03046,70.71068 73.74113,1.01015 2.02031,-77.78174 z"
        id="path3020"
        inkscape:connector-curvature="0" />
-    <path
+    <svg:path
        style="fill:url(#linearGradient3787);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.30463,776.59054 8.08122,-25.25382 136.37059,-27.27412 560.63467,-12.12183 161.62439,28.28428 56.5686,18.18274 z"
        id="path3003"
        inkscape:connector-curvature="0" />
-    <text
+    <svg:text
        xml:space="preserve"
        style="font-size:38.40501404px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="518.47681"
        y="549.96442"
        id="text3789"
        sodipodi:linespacing="125%"
-       transform="scale(0.96012532,1.0415307)"><tspan
+       transform="scale(0.96012532,1.0415307)"><svg:tspan
          sodipodi:role="line"
          id="tspan3791"
          x="518.47681"
          y="549.96442"
-         style="font-size:30.72401047px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Brannboll Fet;-inkscape-font-specification:Brannboll Fet Bold">The</tspan><tspan
+         style="font-size:30.72401047px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Brannboll Fet;-inkscape-font-specification:Brannboll Fet Bold">The</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="518.47681"
          y="588.36945"
          id="tspan3793"
-         style="font-size:30.72401047px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Brannboll Fet;-inkscape-font-specification:Brannboll Fet Bold">Willow</tspan><tspan
+         style="font-size:30.72401047px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Brannboll Fet;-inkscape-font-specification:Brannboll Fet Bold">Willow</svg:tspan><svg:tspan
          sodipodi:role="line"
          x="518.47681"
-         y="626.77448"
+         y="626.77441"
          id="tspan3795"
-         style="font-size:30.72401047px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Brannboll Fet;-inkscape-font-specification:Brannboll Fet Bold">Tree</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000021;stroke-opacity:1;stroke-width:1.60000000000000010;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round"
+         style="font-size:30.72401047px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Brannboll Fet;-inkscape-font-specification:Brannboll Fet Bold">Tree</svg:tspan></svg:text>
+    <svg:rect
+       style="fill:none;stroke:#000021;stroke-width:1.60000002;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3011"
        width="192.5"
        height="100.71429"
        x="392.85715"
        y="133.65529"
        transform="translate(228.80463,419.50669)" />
-    <rect
-       style="fill:none;stroke:#000021;stroke-width:1.1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.21848740000000000;stroke-dasharray:1.1,1.1;stroke-dashoffset:0"
+    <svg:rect
+       style="fill:none;stroke:#000021;stroke-width:1.10000002;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.21848737;stroke-dasharray:1.1, 1.1;stroke-dashoffset:0"
        id="rect3011-5"
        width="182.77235"
        height="90.487778"
        x="626.21094"
        y="558.74573" />
-  </g>
-</svg>
+  </svg:g>
+</svg:svg>
